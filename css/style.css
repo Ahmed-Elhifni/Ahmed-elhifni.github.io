@@ -1,0 +1,59 @@
+#header {
+      background: url("https://images.wallpaperscraft.com/image/owl_black_bird_predator_63621_1366x768.jpg") no-repeat center center;
+      background-size: cover;
+      width: 1366px;
+      height: 80vh;
+      display: table;
+      position: relative;
+      text-align: center;
+      font-size: 1.7rem;
+      line-height: 3rem;
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+      color: white;
+    }
+
+
+
+    .ml-auto .dropdown-menu {
+      left: auto !important;
+      right: 0px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .col-6 {
+        width: 100%;
+      }
+    }
+
+    body {
+      background-color: rgb(233, 233, 233);
+    }
+
+
+    .progress {
+      border: 1px solid black
+    }
+
+
+    .center {
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 1%;
+    }
+
+    #aboutMe,
+    #profileNDskills,
+    #contactMe {
+      padding-top: 130px;
+    }
+
+    @media only screen and (max-width:600px) {
+      #aboutMe,
+      #profileNDskills,
+      #contactMe {
+        padding-top: 200px;
+      }
+    }
